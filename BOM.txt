@@ -1,0 +1,18 @@
+1x Raspberry Pi Model B
+6x Mounting Standoffs
+1x Power Supply
+1x SD Card
+1x VGA Monitor AND 1x Powered HDMI to VGA Adapter
+OR
+1x HDMI Monitor
+1x Keyboard
+1x F/F Jumper Wires
+1x 8 Channel Relay Board
+1x Pulse Water Meter
+1x DHT22/RHT03 Temp/Humidity Sensor
+1x 2-Conducter Cable (To sensor)
+1x Power Strip
+
+Optional:
+1x Case Fan
+1x 100v AC to 12v DC Adapter
